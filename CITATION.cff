@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this solution, please cite this software and credit SPlab."
+type: software
+title: "Application Inference from Packet Flows: SPlab Winning Solution"
+authors:
+  - name: SPlab
+version: "v11"
+date-released: "2026-11-16"
+license: MIT
